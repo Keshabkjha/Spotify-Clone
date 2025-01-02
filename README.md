@@ -25,8 +25,8 @@ It includes functionalities for creating, browsing, and removing albums, as well
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/nuricanbrdmr/Spotify-Clone-MERN-Website.git
-    cd Spotify-Clone-MERN-Website
+    git clone https://github.com/Keshabkjha/Spotify-Clone.git
+    cd Spotify-Clone
     ```
 
 2. Set up environment variables:
